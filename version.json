@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "apkUrl": "https://raw.githubusercontent.com/ThanhLinhIT/EMR_APP_APK/main/apk/app-release.apk",
-  "releaseNotes": "Thêm chức năng khám bệnh phòng, cải thiện giao diện.",
+  "releaseNotes": "",
   "forceUpdate": false
 }
