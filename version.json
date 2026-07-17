@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "2.0.0",
   "apkUrl": "https://raw.githubusercontent.com/ThanhLinhIT/EMR_APP_APK/main/apk/app-release.apk",
-  "releaseNotes": "Người nhà không bắt buộc nhập CCCD và số điện thoại.",
+  "releaseNotes": "Thêm chức năng ký duyệt cho ban giám đốc.",
   "forceUpdate": false
 }
