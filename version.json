@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "2.0.0",
+  "versionCode": 5,
+  "versionName": "2.1.0",
   "apkUrl": "https://raw.githubusercontent.com/ThanhLinhIT/EMR_APP_APK/main/apk/app-release.apk",
-  "releaseNotes": "Thêm chức năng ký duyệt cho ban giám đốc.",
+  "releaseNotes": "Thêm tab Buồng phòng; gửi/thu hồi phiếu ký số OneCare; cho phép ký tại chỗ cả phiếu đã gửi OneCare.",
   "forceUpdate": false
 }
