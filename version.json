@@ -2,6 +2,6 @@
   "versionCode": 6,
   "versionName": "2.1.1",
   "apkUrl": "https://raw.githubusercontent.com/ThanhLinhIT/EMR_APP_APK/main/apk/app-release.apk",
-  "releaseNotes": "Thêm tab Buồng phòng; ký tất cả ô đối với phiếu có nhiều ô ký.",
+  "releaseNotes": "Ký tất cả ô đối với phiếu có nhiều ô ký.",
   "forceUpdate": false
 }
